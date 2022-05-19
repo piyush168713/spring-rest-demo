@@ -1,7 +1,7 @@
 # Spring-Rest-Jackson-Json-Data-Binding
 Representational State Transfer is a software architectural style that defines a set of constraints to be used for creating Web services. Web services that conform to the REST architectural style, called Rest API, provide interoperability between computer systems on the Internet.We are implementing it with Sping framework with the help of jackson.
 # Microservices
-# spring-rest [![Build Status](https://travis-ci.org/piyush168713/spring-rest.svg?branch=master)](https://travis-ci.org/piyush168713/spring-rest)
+<!--# spring-rest [![Build Status](https://travis-ci.org/piyush168713/spring-rest.svg?branch=master)](https://travis-ci.org/piyush168713/spring-rest)-->
 
 ## Introduction
 This project shows different ways to test Spring Boot Application.
@@ -12,7 +12,7 @@ Libraries used:
 
 2. spring boot test
 
-[See dependency tree.](https://github.com/soumyadip007/Spring-Rest-Jackson-Json-Data-Binding/blob/master/Spring-jackson-databind-json/pom.xml)
+[See dependency tree.](https://github.com/piyush168713/Spring-Rest-Jackson-Json-Data-Binding/blob/master/Spring-jackson-databind-json/pom.xml)
 
 ## Testing Notes
 There are multiple ways to test spring applications. See [improvements in Spring Boot 1.4](https://spring.io/blog/2016/04/15/testing-improvements-in-spring-boot-1-4).
