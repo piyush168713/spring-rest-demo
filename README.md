@@ -124,4 +124,3 @@ ObjectMapper mapper = new ObjectMapper();
 Book[] b = mapper.readValue(resource.getFile(), Book[].class);
 ```
 # Security Issue
-
